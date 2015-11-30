@@ -5,6 +5,8 @@ The purpose of this repo is for you to practice answering interview questions an
 
 Pull requests with all of these answers should be submitted by the time the cohort ends. 
 
+https://github.com/MaximAbramchuck/awesome-interviews
+
 https://github.com/gSchool/sf-interview-questions
 
 https://github.com/gSchool/interview-questions
