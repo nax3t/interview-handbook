@@ -127,7 +127,22 @@ Questions from https://css-tricks.com/interview-questions-css/
 - Using CSS properties alone, recreate this button:
 
 ![CSS Button](./css-button.png)
+- Describe what a “reset” CSS file does and how it’s useful. Are you familiar with normalize.css? Do you understand how they differ?
+- What are the various techniques for clearing floats?
+- What are sprites and why would use them? How do you go about creating them? What are possible alternatives to sprites?
+- What are some accessibility concerns that come up in CSS?
+- What tools do you use for cross-browser testing?
+- Say you found a rendering problem on one of your sites in Internet Explorer 8, which you have decided you are supporting. How would you approach fixing it?
+- What is responsive design all about?
+- Have you ever worked with a grid layout? What are your thoughts on that?
+- What are the benefits of SVG?
+- Say you were tasked with coding a design that used non-standard web fonts, how would you go about it?
+- Explain to me what's going on in this CSS selector:
+```css
+[role=navigation] > ul a:not([href^=mailto]) {
 
+}
+```
 
 ### JavaScript
 
