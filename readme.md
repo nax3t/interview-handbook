@@ -144,6 +144,27 @@ Questions from https://css-tricks.com/interview-questions-css/
 }
 ```
 
+Questions from http://www.skilledup.com/articles/25-css-interview-questions-answers
+- Explain what a class selector is and how it’s used
+- What are pseudo classes and what are they used for?
+- Explain the three main ways to apply CSS styles to a Web page
+- What is grouping and what is it used for?
+- What is an ID selector and how is it used?
+- What is a Class selector and how does it differ from an ID selector?
+- What are child selectors?
+- What are the different CSS properties used to change dimensions and what values can they accept?
+- How is the float property implemented in CSS?
+- How to restore the default property value using CSS?
+- What is the purpose of pseudo-elements and how are  they made?
+- What is the purpose of the z-index and how is it used?
+- What are the advantages and disadvantages of External Style Sheets?
+- Explain the difference between visibility:hidden and display:none
+- What are some of the new features and properties in CSS3?
+- Why shouldn’t I use fixed sized fonts?
+- Which font names are available on all platforms?
+- What are the advantages/disadvantages of using CSS preprocessors? (SASS, Compass, Stylus, LESS)
+- Why and how are shorthand properties used? Give examples.
+
 ### JavaScript
 
 ### jQuery
