@@ -54,7 +54,7 @@ http://www.codeproject.com/Articles/618484/Latest-jQuery-interview-questions-and
 http://career.guru99.com/top-50-jquery-interview-questions/
 
 ### HTML
-Questions taken from http://www.toptal.com/html5/interview-questions
+Questions from http://www.toptal.com/html5/interview-questions
 - What were some of the key goals and motivations for the HTML5 specification?
 - What are some of the key new features in HTML5?
 - What are “web workers”?
@@ -68,7 +68,7 @@ Questions taken from http://www.toptal.com/html5/interview-questions
 - Write the code necessary to create a 300 pixel by 300 pixel `<canvas>`. Within it, paint a blue 100 pixel by 100 pixel square with the top-left corner of the square located 50 pixels from both the top and left edges of the canvas.
 - What is HTML5 Web Storage? Explain localStorage and sessionStorage.
 
-Questions below taken from http://www.skilledup.com/articles/html-html5-interview-questions-answers
+Questions from http://www.skilledup.com/articles/html-html5-interview-questions-answers
 - What is HTML?
 - What is the difference between HTML elements and tags?
 - What is “Semantic HTML?”
@@ -104,6 +104,23 @@ More questions:
 - http://www.careerride.com/Interview-Questions-HTML.aspx
 
 ### CSS
+Questions from https://github.com/developerquestions/css-questions
+- What are the pros and cons of using absolute positioning?
+- What is the difference between display: inline; and display: inline-block;?
+Questions from https://github.com/bargitta/cssInterview
+- What is box model?
+- Where to define styles?
+- List CSS selectors and their priorities
+- The difference between block element, inline-block element and inline element
+- Talk about position property, and its values
+- How to hide an element?
+- What is float element?
+- What is pseudo element? what is pseudo class?
+- How to center align a paragraph?
+- How to center align a div inside another div?
+- How to make a two column Web page? a three column Web page?
+- How to draw a triangle? a circle? a colored square?
+- How to make a tab view?
 
 ### JavaScript
 
