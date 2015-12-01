@@ -167,6 +167,62 @@ Questions from http://www.skilledup.com/articles/25-css-interview-questions-answ
 
 ### JavaScript
 
+- See [here](https://github.com/malachaifrazier/JavaScript-Interview-Questions) for some JS interview exercises
+- Questions below from https://github.com/nishant8BITS/101-JavaScript-Interview-Question
+- Difference between undefined and not defined in JavaScript
+- What will be the output of below code?
+
+```js
+var y = 1;
+if (function f(){}) {
+  y += typeof f;
+}
+console.log(y);
+```
+
+- What is drawback of creating true private in JavaScript?
+- What is “closure” in javascript? Provide an example?
+- Write a mul function which will properly when invoked as below syntax:
+
+```js
+console.log(mul(2)(3)(4)); // output : 24 
+console.log(mul(4)(3)(4)); // output : 48
+```
+
+- How to empty an array in JavaScript?
+- How to check if an object is an array or not?
+- What will be the output of below code?
+```js
+var output = (function(x){
+  delete x;
+  return x;
+})(0);
+
+console.log(output);
+```
+
+- What will be the output of below code?
+```js
+var x = 1;
+var output = (function(){
+  delete x;
+  return x;
+})();
+
+console.log(output);
+```
+
+- What will be the output of below code?
+```js
+var x = { foo : 1};
+var output = (function(){
+  delete x.foo;
+  return x.foo;
+})();
+
+console.log(output);
+```
+
 ### jQuery
 
 - What is $(document).ready() function? Why should you use it? 
