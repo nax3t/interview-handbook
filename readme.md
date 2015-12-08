@@ -223,6 +223,80 @@ var output = (function(){
 console.log(output);
 ```
 
+- What will be the output of the below code?
+```js
+var Employee = {
+  company: 'xyz'
+}
+var emp1 = Object.create(Employee);
+delete emp1.company
+console.log(emp1.company);
+```
+
+- What is undefined x 1 in JavaScript?
+- What will be the output of below code?
+```js
+var trees = ["xyz", "xxxx", "test", "ryan", "apple"];
+delete trees[3];
+console.log(trees.length);
+```
+
+- What will be the output of below code?
+```js
+var bar = true;
+console.log(bar + 0);   
+console.log(bar + "xyz");  
+console.log(bar + true);  
+console.log(bar + false);
+```
+
+- What will be the output of below code?
+```js
+var z = 1, y = z = typeof y;
+console.log(y);
+```
+
+- What will be the output of below code?
+```js
+// NFE (Named Function Expression
+var foo = function bar() { return 12; };
+typeof bar();
+```
+
+- What is the difference between declaring a function in below format?
+```js
+var foo = function() {
+  // Some code
+};
+
+function bar() {
+  // Some code
+};
+```
+
+- What is function hoisting in JavaScript?
+- What will be the output of below code?
+```js
+var salary = "1000$";
+
+(function () {
+  console.log("Original salary was " + salary);
+
+  var salary = "5000$";
+
+  console.log("My New Salary " + salary);
+})();
+```
+
+- What is the instanceof operator in JavaScript?
+- What would be the output of below code?
+```js
+function foo() {
+  return foo;
+}
+new foo() instanceof foo;
+```
+
 ### jQuery
 
 - What is $(document).ready() function? Why should you use it? 
