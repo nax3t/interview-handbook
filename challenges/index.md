@@ -1,3 +1,3 @@
-# Node / Express / Mongo
+# Challenges
 
 # [Back to readme](../readme.md)
