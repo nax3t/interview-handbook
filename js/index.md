@@ -141,4 +141,4 @@ counterArray["C"] = 1;
 
 - What is the difference between Function, Method and Constructor calls in JavaScript?
 
-# [Back](../)
+# [Back to readme](../readme.md)

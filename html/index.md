@@ -49,4 +49,4 @@ More questions:
 - http://techpreparation.com/html-interview-questions-answers1.htm#.VlmapN8rLXE
 - http://www.careerride.com/Interview-Questions-HTML.aspx
 
-# [Back](../)
+# [Back to readme](../readme.md)

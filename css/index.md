@@ -61,4 +61,4 @@ Questions from http://www.skilledup.com/articles/25-css-interview-questions-answ
 - What are the advantages/disadvantages of using CSS preprocessors? (SASS, Compass, Stylus, LESS)
 - Why and how are shorthand properties used? Give examples.
 
-# [Back](../)
+# [Back to readme](../readme.md)
