@@ -5,7 +5,7 @@ The purpose of this repo is for you to practice answering interview questions an
 
 Pull requests with all of these answers should be submitted by the time the cohort ends. 
 
-### [HTML](/html)
+### [HTML](../../html)
 
 ### CSS
 Questions from https://github.com/developerquestions/css-questions
