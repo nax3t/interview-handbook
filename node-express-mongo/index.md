@@ -49,6 +49,65 @@ second
 
 ### Express
 
+Questions from week 6 assessment:
+- What is the difference between a host object and a native object?
+- Name two objects that are NOT available to us in Node.js (that are available in the browser).
+- What is Express JS?
+- What is npm?
+- What `package.json`?
+- Why do we add the text `"node_modules"` to our `.gitignore`?
+- What does the --save flag do when we install modules with npm?
+- What is nodemon? Why is it so helpful?
+- What is localhost?
+- What is HTTP?
+- Explain GET request vs POST request
+- Explain render vs redirect
+- What is a route?
+- What is EJS?
+- Where do static assets (images, javascripts, stylesheets) go?
+- What is the difference between `require("express")` and `require("./express")`?
+- What is middleware?
+- What does `body-parser` enable us to do?
+- What is the difference between `req.params`, `req.query` and `req.body`?
+- Given the following code:
+```js
+app.get("/",function(req,res){
+    var instructors = ["Matt", "Ian", "Elie"]
+    res.render("index", {instructors: instructors})
+})
+```
+Inside of the `res.render` method, the 2nd parameter is an object. What does the key instructors refer to (or where is it used)? What does the value instructors refer to (or where is it used)?
+
+- Fix the broken code:
+```js
+app.get("awesome",function(req,res){
+    res.render("/index")
+})
+```
+
+- Fix the broken code:
+```js
+app.get("/",function(req,res){
+    res.redirect("index")
+})
+```
+
+- Given the following code:
+```js
+app.get("/",function(req,res){
+    var instructors = ["Matt", "Ian", "Elie"];
+    console.log("These are my instructors!", instructors);
+})
+
+app.listen(3000)
+```
+When a user goes to localhost:3000, what is going to appear in the terminal and what will appear in the browser?
+
+- Why can't we use jQuery in our server code (app.js)?
+- Explain method_override
+- Explain cookies vs sessions
+- Explain module.export
+
 ### Mongo
 
 Questions taken from http://www.tutorialspoint.com/mongodb/mongodb_interview_questions.htm
