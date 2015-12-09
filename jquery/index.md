@@ -56,7 +56,7 @@ $( "#logo" );
 - jQuery provides a useful `.clone()` method to create a deep copy of matching elements. Answer the following questions:
 	1. What is meant by a “deep copy”?
 	2. What is normally not included in the cloned copy? How can some of this behavior be controlled?
-	3.What is a potential “gotcha” when using the `.clone()` method? (HINT: What is an element attribute that you would generally not want to clone?)
+	3. What is a potential “gotcha” when using the `.clone()` method? (HINT: What is an element attribute that you would generally not want to clone?)
 - Explain the `.promise()` method in jQuery, including how and why it would be used.
 - Consider the code snippet below. If there are 5 `<div>` elements on the page, what will be the difference between the start and end times displayed?
 ```js
