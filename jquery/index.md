@@ -4,7 +4,7 @@
 - How do you retrieve attribute of an HTML tag using jQuery e.g. href of links?
 
 Following questions taken from http://www.toptal.com/jquery/interview-questions
-- $( "div#first, div.first, ol#items > [name$='first']" )
+- Explain what the following code will do: `$( "div#first, div.first, ol#items > [name$='first']" )`
 - The code below is for an application that requires defining a click handler for all buttons on the page, including those buttons that may be added later dynamically. What is wrong with this code, and how can it be fixed to work properly even with buttons that are added later dynamically?
 ```js
 // define the click handler for all buttons
@@ -76,5 +76,6 @@ $( "input" ).on( "click", function() {
   });
 });
 ```
-
+- What is the proper way in jQuery to remove an element from the DOM before its Promise is resolved?
+- Explain the difference between the `.detach()` and `.remove()` methods in jQuery.
 # [Back to readme](../readme.md)
