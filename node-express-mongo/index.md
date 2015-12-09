@@ -47,4 +47,60 @@ second
 }
 ```
 
+### Express
+
+### Mongo
+
+Questions taken from http://www.tutorialspoint.com/mongodb/mongodb_interview_questions.htm
+
+- What are NoSQL databases? What are the different types of NoSQL databases?
+- What kind of NoSQL database is MongoDB?
+- Which are the most important features of MongoDB?
+- What is a Namespace in MongoDB?
+- Which languages can be used with MongoDB?
+- Compare SQL databases and MongoDB at a high level.
+- How is MongoDB better than other SQL databases?
+- Does MongoDB support foreign key constraints?
+- Does MongoDB support ACID transaction management and locking functionalities?
+- How can you achieve primary key - foreign key relationships in MongoDB?
+- Does MongoDB need a lot of RAM?
+- Does MongoDB pushes the writes to disk immediately or lazily?
+- Explain the structure of ObjectID in MongoDB.
+- MongoDB uses BSON to represent document structures. True or False?
+- If you remove a document from the database, does MongoDB remove it from disk?
+- Write out the command to insert a document into a database called school and collection called persons.
+- What are Indexes in MongoDB?
+- How many indexes does MongoDB create by default for a new collection?
+- Can you create an index on an array field in MongoDB? If yes, what happens in this case?
+- What is a covered query in MongoDB?
+- Why is a covered query important?
+- Does MongoDB provide a facility to do text searches? How?
+- What happens if an index does not fit into RAM?
+- How would you list all the indexes on a particular collection?
+- At what interval does MongoDB write updates to the disk?
+- How can you achieve transaction and locking in MongoDB?
+- What is Aggregation in MongoDB?
+- What is Sharding in MongoDB? Explain.
+- What is Replication in MongoDB? Explain.
+- What are Primary and Secondary Replica sets?
+- By default, MongoDB writes and reads data from both primary and secondary replica sets. True or False.
+- Why are MongoDB data files large in size?
+- When should we embed one document within another in MongoDB?
+- Why isn't deploying MongoDB on a 32-bit system preferred?
+- What is a Storage Engine in MongoDB
+- Which are the two storage engines used by MongoDB?
+- What is the role of a profiler in MongoDB? Where does it write all the data?
+- How does Journaling work in MongoDB?
+- What is the command to check whether you are on the master server or not?
+- Can you configure the cache size for MMAPv1? How?
+- Can you configure the cache size for WiredTiger? How?
+- How does MongoDB provide concurrency?
+- How can you isolate your cursors from intervening with the write operations?
+- Can one MongoDB operation lock more than one databases? If yes, how?
+- How can concurrency affect replica sets primary?
+- What is GridFS?
+Can you run multiple JavaScript operations in a single mongod instance?
+- Which command can be used to provide various information on the query plans used by a MongoDB query?
+
+
 # [Back to readme](../readme.md)
