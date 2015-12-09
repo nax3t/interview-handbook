@@ -1,3 +1,9 @@
+http://www.toptal.com/ruby/interview-questions
+
+http://www.tutorialspoint.com/mongodb/mongodb_interview_questions.htm
+
+http://www.tutorialspoint.com/nodejs/nodejs_interview_questions.htm
+
 https://blog.risingstack.com/node-js-interview-questions/
 
 http://www.toptal.com/nodejs/interview-questions
