@@ -53,11 +53,10 @@ $( "#logo" );
 - Explain and contrast the usage of `event.preventDefault()` and `event.stopPropagation()`. Provide an example.
 - What selector would I use to query for all elements with an ID that ends with a particular string? Also, how would I modify the selector to retrieve only `<div>` elements whose IDs end with that same string? Provide an example.
 - What is accomplished by returning `false` from (a) a jQuery event handler, (b) a regular JavaScript onclick event handler for an anchor tag, and (c) a regular JavaScript onclick event handler for a non-anchor tag (e.g., a div, button, etc.)?
-- jQuery provides a useful `.clone()` method to create a deep copy of matching elements.
-	- Answer the following questions:
-		1. What is meant by a “deep copy”?
-		2. What is normally not included in the cloned copy? How can some of this behavior be controlled?
-		3.What is a potential “gotcha” when using the `.clone()` method? (HINT: What is an element attribute that you would generally not want to clone?)
+- jQuery provides a useful `.clone()` method to create a deep copy of matching elements. Answer the following questions:
+	1. What is meant by a “deep copy”?
+	2. What is normally not included in the cloned copy? How can some of this behavior be controlled?
+	3.What is a potential “gotcha” when using the `.clone()` method? (HINT: What is an element attribute that you would generally not want to clone?)
 - Explain the `.promise()` method in jQuery, including how and why it would be used.
 - Consider the code snippet below. If there are 5 `<div>` elements on the page, what will be the difference between the start and end times displayed?
 ```js
