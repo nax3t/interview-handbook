@@ -1,6 +1,7 @@
 # Ruby
 
-> Question taken from http://rubyquiz.com/quiz126.html
+Question taken from http://rubyquiz.com/quiz126.html
+
 > Write a program that prints the numbers from 1 to 100.
 > But for multiples of three print “Fizz” instead of the
 > number and for the multiples of five print “Buzz”. For
