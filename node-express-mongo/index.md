@@ -5,7 +5,6 @@
 Questions taken from https://blog.risingstack.com/node-js-interview-questions/
 
 - What is an error-first callback?
-- How can you avoid callback hells?
 - How can you listen on port 80 with Node?
 - What's the event loop?
 - What tools can be used to assure consistent style?
