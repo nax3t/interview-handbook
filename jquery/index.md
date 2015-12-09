@@ -77,4 +77,5 @@ $( "input" ).on( "click", function() {
 ```
 - What is the proper way in jQuery to remove an element from the DOM before its Promise is resolved?
 - Explain the difference between the `.detach()` and `.remove()` methods in jQuery.
+
 # [Back to readme](../readme.md)
