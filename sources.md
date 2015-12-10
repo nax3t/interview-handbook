@@ -1,3 +1,5 @@
+http://www.codequizzes.com/
+
 http://blogs.msdn.com/b/nikhilsi/archive/2011/07/16/programming-interview-questions-and-answers.aspx
 
 http://www.careerride.com/Object-oriented-programming-Interview-Questions.aspx
