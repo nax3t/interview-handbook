@@ -1,5 +1,7 @@
 # Challenges
 
+### [Code Quizzes](http://www.codequizzes.com/)
+
 ### HTML-CSS 
 - [Selector Game](http://flukeout.github.io/)
 - Using just css and html, recreate the footer from http://www.ridetransfort.com
