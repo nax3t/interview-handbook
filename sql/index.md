@@ -11,7 +11,7 @@ Questions taken from http://a4academics.com/interview-questions/53-database-and-
 - What is a Record in a database?
 - What is a Table in a database?
 
-Questions from http://www.toptal.com/sql/interview-questions
+Questions taken from http://www.toptal.com/sql/interview-questions
 
 - What does `UNION` do? What is the difference between `UNION` and `UNION ALL`?
 - List and explain the different types of `JOIN` clauses supported in ANSI-standard SQL.
