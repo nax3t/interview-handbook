@@ -1,5 +1,16 @@
 # SQL
 
+Questions taken from http://a4academics.com/interview-questions/53-database-and-sql/411-sql-interview-questions-and-answers-database
+
+- What is a DBMS?
+- What is a RDBMS?
+- What is SQL?
+- What are the different type of SQL's statements?
+- What are the Advantages of SQL?
+- What is a field in a database?
+- What is a Record in a database?
+- What is a Table in a database?
+
 Questions from http://www.toptal.com/sql/interview-questions
 
 - What does `UNION` do? What is the difference between `UNION` and `UNION ALL`?
@@ -186,5 +197,16 @@ Write a query to to get the list of users who took the a training lesson more th
 - What is a key difference between Truncate and Delete?
 
 Questions taken from http://dwbi.org/database/sql/72-top-20-sql-interview-questions-with-answers
+
+- What is the difference between `inner` and outer `join`? Explain with example.
+- What is the difference between `JOIN` and UNION?
+- What is the difference between `WHERE` clause and `HAVING` clause?
+- What is the difference among `UNION`, `MINUS` and `INTERSECT`?
+- What is Self Join and why is it required?
+- How can we transpose a table using SQL (changing rows to column or vice-versa) ?
+- How to generate row number in SQL Without `ROWNUM`
+- How to select first 5 records from a table?
+- What is the difference between `ROWNUM` pseudo column and `ROW_NUMBER()` function?
+- What are the differences among `ROWNUM`, `RANK` and `DENSE_RANK`?
 
 # [Back to readme](../readme.md)
