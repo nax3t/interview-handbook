@@ -5,7 +5,7 @@ Questions from https://github.com/developerquestions/css-questions
 - What is the difference between display: inline; and display: inline-block;?
 
 Questions from https://github.com/bargitta/cssInterview
-- What is box model?
+- What is the box model? Draw it out and explain the different elements.
 - Where to define styles?
 - List CSS selectors and their priorities
 - The difference between block element, inline-block element and inline element
