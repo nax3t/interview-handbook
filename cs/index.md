@@ -3,9 +3,14 @@
 ### Implement the following in JavaScript:
 - Stack
 - Queue
+- Trie
+- Hash Table
+- Binary Search Tree
 - Singly Linked List
 - Doubly Linked List
 - Circular Linked List
+- Breadth-first search
+- Depth-first search
 - Bubblesort
 - Selection sort
 - Insertion sort

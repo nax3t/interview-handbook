@@ -15,6 +15,8 @@ Pull requests with answers to all sections should be submitted by the time the c
 
 ### [Node / Express / Mongo](/node-express-mongo/index.md)
 
+### [SQL](/sql/index.md)
+
 ### [Ruby](/ruby/index.md)
 
 ### [Angular](/angular/index.md)
