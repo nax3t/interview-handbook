@@ -1,3 +1,11 @@
+http://blogs.msdn.com/b/nikhilsi/archive/2011/07/16/programming-interview-questions-and-answers.aspx
+
+http://www.careerride.com/Object-oriented-programming-Interview-Questions.aspx
+
+http://www.toptal.com/sql/interview-questions
+
+http://dwbi.org/database/sql/72-top-20-sql-interview-questions-with-answers
+
 http://www.toptal.com/ruby/interview-questions
 
 http://www.tutorialspoint.com/mongodb/mongodb_interview_questions.htm
