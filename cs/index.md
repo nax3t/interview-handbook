@@ -3,7 +3,6 @@
 ### Implement the following in JavaScript:
 - Stack
 - Queue
-- Trie
 - Hash Table
 - Binary Search Tree
 - Singly Linked List
